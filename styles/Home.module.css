@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem;
+  min-height: 100vh;
+}
+.main > p {
+  margin: 1rem;
+}
+
+.main > ul {
+  margin-bottom: 1rem;
+}
